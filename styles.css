@@ -1,1 +1,33 @@
-/* add your CSS here */
+div {
+  width: 300px;
+  line-height: 1.6
+}
+
+body {
+  border-style: solid;
+  border-width: thin;
+  width: 320px;
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-bottom: 10px
+}
+
+ul {
+  list-style-type: none;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.box {
+  border-style: solid;
+  border-width: thin;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
